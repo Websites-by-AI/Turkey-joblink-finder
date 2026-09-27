@@ -1,0 +1,22 @@
+name = "joblink-worker"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+# Browser Rendering / "Browser Run" binding for the JS-heavy boards (secretcv, kariyer, yenibiris)
+browser_rendering = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "joblink"
+database_id = "REPLACE_WITH_YOUR_D1_ID"
+migrations_dir = "migrations"
+
+[[kv_namespaces]]
+binding = "CACHE"
+id = "REPLACE_WITH_YOUR_KV_ID"
+
+# Free plan: 5 cron triggers max. This is the whole "always-on" part of the product.
+[triggers]
+crons = ["*/45 4-18 * * *"]
+
+[observability]
+enabled = true

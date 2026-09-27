@@ -1,0 +1,10 @@
+# core (all pure-python + httpx; the crawler runs with no GPU and no local models)
+httpx>=0.27
+lxml>=5.0            # optional speed-up; html.parser fallback is built in
+brotli>=1.1          # if absent we simply do not advertise `br` (see httpfetch._accept_encoding)
+pydantic>=2.7
+Jinja2>=3.1
+
+# dev / tests
+pytest>=8.0
+ruff>=0.6

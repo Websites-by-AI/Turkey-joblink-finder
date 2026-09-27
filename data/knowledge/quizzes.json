@@ -1,0 +1,2642 @@
+[
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q01",
+    "question_fa": "حداقل چند شهروند ترک باید برای هر تبعه خارجی در یک کارگاه استخدام شده باشند؟",
+    "question_en": "How many Turkish citizens must be employed per foreigner?",
+    "options_fa": [
+      "3 نفر",
+      "5 نفر",
+      "1 نفر",
+      "10 نفر"
+    ],
+    "options_en": [
+      "3",
+      "5",
+      "1",
+      "10"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ماده ارزیابی ÇSGB: به ازای هر خارجی حداقل 5 ترک. Tech Visa تا 3 نفر معافیت دارد.",
+    "explanation_en": "5:1 rule per ÇSGB, Tech Visa exemption first 3",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q02",
+    "question_fa": "اولین اجازه کار ترکیه معمولا چند ساله صادر می‌شود؟",
+    "question_en": "How long is first Turkish work permit?",
+    "options_fa": [
+      "6 ماه",
+      "1 سال",
+      "3 سال",
+      "نامحدود"
+    ],
+    "options_en": [
+      "6 months",
+      "1 year",
+      "3 years",
+      "indefinite"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "اولین مجوز 1 ساله، تمدید 2 ساله، بعد 3 ساله. Tech Visa 3 ساله.",
+    "explanation_en": "First 1y, then 2y, then 3y. Tech Visa 3y",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q03",
+    "question_fa": "Turkuaz Kart برای چه کسانی است؟",
+    "question_en": "Who is Turkuaz Kart for?",
+    "options_fa": [
+      "کارگر فصلی",
+      "نیروی متخصص سطح بالا",
+      "دانشجو",
+      "پناهنده"
+    ],
+    "options_en": [
+      "seasonal",
+      "highly qualified",
+      "student",
+      "refugee"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "نیروی متخصص، سرمایه‌گذار بزرگ، دانشمند.",
+    "explanation_en": "Highly qualified, investors, scientists.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q04",
+    "question_fa": "درخواست اجازه کار را چه کسی باید در e-izin ثبت کند؟",
+    "question_en": "Who must file work permit on e-izin?",
+    "options_fa": [
+      "خود کارجو",
+      "کارفرما",
+      "سفارت",
+      "وکیل کارجو"
+    ],
+    "options_en": [
+      "candidate",
+      "employer",
+      "embassy",
+      "lawyer"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "کارفرما با امضای الکترونیک.",
+    "explanation_en": "Employer with e-signature.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q05",
+    "question_fa": "معافیت 2024 برای متخصصان چقدر شد؟",
+    "question_en": "What is 2024 exemption extension?",
+    "options_fa": [
+      "6 ماه به 1 سال",
+      "6 ماه به 3 سال",
+      "1 سال به 5 سال",
+      "بدون تغییر"
+    ],
+    "options_en": [
+      "6m→1y",
+      "6m→3y",
+      "1y→5y",
+      "no change"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ماده 48: از 6 ماه به 3 سال.",
+    "explanation_en": "Art 48: 6m to 3y.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q06",
+    "question_fa": "کدام شغل برای خارجی‌ها بدون معادل‌سازی ممنوع است؟",
+    "question_en": "Which job forbidden without equivalence?",
+    "options_fa": [
+      "برنامه‌نویس",
+      "دندانپزشک",
+      "مهندس نرم‌افزار",
+      "کارگر انبار"
+    ],
+    "options_en": [
+      "programmer",
+      "dentist",
+      "software eng",
+      "warehouse"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "پزشکی، دندانپزشکی، وکالت نیاز به معادل‌سازی.",
+    "explanation_en": "Medical, dentistry, law need equivalence.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q07",
+    "question_fa": "Tech Visa چه مزایایی دارد؟",
+    "question_en": "What does Tech Visa offer?",
+    "options_fa": [
+      "فقط اقامت",
+      "3 سال کار + معافیت مالیاتی + مشاوره 6 ماهه",
+      "معافیت سربازی",
+      "اقامت دائم فوری"
+    ],
+    "options_en": [
+      "only residence",
+      "3y work + tax exemption + 6m consultancy",
+      "military",
+      "immediate permanent"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "3 سال، معافیت مالیات، 50% SGK دولت.",
+    "explanation_en": "3y, tax exemption, 50% SGK state.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q08",
+    "question_fa": "اگر کارفرما عوض شود اجازه کار چه می‌شود؟",
+    "question_en": "If employer changes, permit?",
+    "options_fa": [
+      "خودکار منتقل",
+      "باطل و درخواست جدید",
+      "6 ماه اعتبار",
+      "نامحدود می‌شود"
+    ],
+    "options_en": [
+      "auto transfer",
+      "invalid new needed",
+      "valid 6m",
+      "indefinite"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "به یک کارفرما گره خورده؛ تغییر = درخواست جدید.",
+    "explanation_en": "Tied to employer; change = new.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q09",
+    "question_fa": "حداقل حقوق مهندس خارجی؟",
+    "question_en": "Min salary foreign engineer?",
+    "options_fa": [
+      "حداقل دستمزد",
+      "4 برابر حداقل",
+      "2 برابر",
+      "10 برابر"
+    ],
+    "options_en": [
+      "min wage",
+      "4x min",
+      "2x",
+      "10x"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "مهندس 4x حداقل دستمزد.",
+    "explanation_en": "Engineer 4x min wage.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d01",
+    "q_id": "d01_q10",
+    "question_fa": "برای درخواست داخل ترکیه چه اقامتی لازم است؟",
+    "question_en": "For in-country application residence?",
+    "options_fa": [
+      "توریستی 1 روزه",
+      "حداقل 6 ماه معتبر",
+      "بدون اقامت",
+      "فقط دانشجویی"
+    ],
+    "options_en": [
+      "1 day",
+      "at least 6m valid",
+      "no residence",
+      "only student"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "حداقل 6 ماه اقامت معتبر.",
+    "explanation_en": "At least 6m valid residence.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q01",
+    "question_fa": "KVKK چه سالی تصویب شد؟",
+    "question_en": "When was KVKK enacted?",
+    "options_fa": [
+      "2010",
+      "2016",
+      "2018",
+      "2020"
+    ],
+    "options_en": [
+      "2010",
+      "2016",
+      "2018",
+      "2020"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "قانون 6698 در 2016.",
+    "explanation_en": "Law 6698 enacted 2016.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q02",
+    "question_fa": "رضایت صریح باید چگونه باشد؟",
+    "question_en": "How must explicit consent be?",
+    "options_fa": [
+      "پیش‌فرض تیک خورده",
+      "آزاد، مشخص، آگاهانه",
+      "شفاهی کافی",
+      "پنهان در شرایط"
+    ],
+    "options_en": [
+      "pre-ticked",
+      "free specific informed",
+      "verbal",
+      "hidden"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "آزاد، مشخص، آگاهانه، اقدام مثبت.",
+    "explanation_en": "Freely, specific, informed, affirmative.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q03",
+    "question_fa": "VERBIS چیست؟",
+    "question_en": "What is VERBIS?",
+    "options_fa": [
+      "سامانه ثبت کنترلر داده",
+      "آنتی‌ویروس",
+      "نوع رضایت",
+      "بانک رزومه"
+    ],
+    "options_en": [
+      "data controller registry",
+      "antivirus",
+      "consent type",
+      "resume DB"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "Data Controllers Registry.",
+    "explanation_en": "Data Controllers Registry.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q04",
+    "question_fa": "ماده 135/136 قانون مجازات ترکیه؟",
+    "question_en": "What does TCK 135/136 say?",
+    "options_fa": [
+      "جریمه پارکینگ",
+      "1-4 سال حبس برای داده غیرقانونی",
+      "فقط جریمه",
+      "فقط اخطار"
+    ],
+    "options_en": [
+      "parking",
+      "1-4y prison unlawful data",
+      "only fine",
+      "warning"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ثبت 1-3 سال، افشا 2-4 سال حبس.",
+    "explanation_en": "Recording 1-3y, disclosure 2-4y.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q05",
+    "question_fa": "حق فراموشی معادل کدام ماده KVKK؟",
+    "question_en": "Right to be forgotten equivalent?",
+    "options_fa": [
+      "ماده 7 حذف",
+      "ماده 1",
+      "ماده 20",
+      "وجود ندارد"
+    ],
+    "options_en": [
+      "Art 7 erasure",
+      "Art 1",
+      "Art 20",
+      "none"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "ماده 7 حذف/نابودی/گمنام‌سازی.",
+    "explanation_en": "Art 7 erasure.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q06",
+    "question_fa": "انتقال داده به خارج چگونه مجاز است؟",
+    "question_en": "Cross-border transfer allowed?",
+    "options_fa": [
+      "آزاد",
+      "رضایت صریح یا تعهدنامه + مجوز",
+      "فقط ایمیل",
+      "هرگز"
+    ],
+    "options_en": [
+      "free",
+      "explicit consent or undertaking + Board",
+      "only email",
+      "never"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "کشور امن، تعهدنامه، BCR.",
+    "explanation_en": "Adequate country, undertaking, BCR.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q07",
+    "question_fa": "چرا contact_hash نه شماره خام؟",
+    "question_en": "Why contact_hash not raw?",
+    "options_fa": [
+      "تبلیغات",
+      "حداقل‌سازی و شبه‌گمنام",
+      "فروش",
+      "تصادفی"
+    ],
+    "options_en": [
+      "ads",
+      "minimization & pseudonymization",
+      "sell",
+      "random"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "اصل حداقل‌سازی ماده 4.",
+    "explanation_en": "Minimization Art 4.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q08",
+    "question_fa": "DPIA چه زمانی لازم است؟",
+    "question_en": "When DPIA needed?",
+    "options_fa": [
+      "همیشه",
+      "پردازش پرخطر استخدامی",
+      "فقط دولتی",
+      "هرگز"
+    ],
+    "options_en": [
+      "always",
+      "high-risk hiring",
+      "only gov",
+      "never"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "استخدام با AI = high-risk.",
+    "explanation_en": "Hiring with AI = high-risk.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q09",
+    "question_fa": "تفاوت KVKK و GDPR در مبنا؟",
+    "question_en": "Difference legal basis?",
+    "options_fa": [
+      "یکسان",
+      "GDPR 6 مبنا برابر، KVKK رضایت پیش‌فرض",
+      "KVKK آزادتر",
+      "GDPR فقط رضایت"
+    ],
+    "options_en": [
+      "same",
+      "GDPR 6 equal, KVKK consent default",
+      "KVKK freer",
+      "GDPR only consent"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "KVKK رضایت را اصلی می‌بیند.",
+    "explanation_en": "KVKK emphasizes consent.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d02",
+    "q_id": "d02_q10",
+    "question_fa": "جریمه KVKK تا چقدر؟",
+    "question_en": "KVKK fine up to?",
+    "options_fa": [
+      "100 لیر",
+      "50k تا 5M لیر + حبس",
+      "اخطار",
+      "10 دلار"
+    ],
+    "options_en": [
+      "100 TL",
+      "50k-5M TL + prison",
+      "warning",
+      "10 USD"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "50k-5M TL + حبس.",
+    "explanation_en": "50k-5M TL + prison.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q01",
+    "question_fa": "قانون کار ایران چند ماده دارد؟",
+    "question_en": "How many articles Iran Labor Code?",
+    "options_fa": [
+      "100",
+      "203",
+      "350",
+      "50"
+    ],
+    "options_en": [
+      "100",
+      "203",
+      "350",
+      "50"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "203 ماده و 121 تبصره مصوب 1369.",
+    "explanation_en": "203 articles 121 notes 1990.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q02",
+    "question_fa": "ماده 120 درباره چیست؟",
+    "question_en": "Article 120 about?",
+    "options_fa": [
+      "بیمه بیکاری",
+      "اشتغال اتباع بیگانه",
+      "مرخصی زایمان",
+      "بازنشستگی"
+    ],
+    "options_en": [
+      "unemployment",
+      "foreign employment",
+      "maternity",
+      "retirement"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "اتباع بیگانه بدون پروانه ممنوع.",
+    "explanation_en": "Foreign nationals need permit.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q03",
+    "question_fa": "کاریابی خارجی چه مجوزی لازم دارد؟",
+    "question_en": "Foreign agency license?",
+    "options_fa": [
+      "وزارت تعاون، کار",
+      "شهرداری",
+      "بدون مجوز",
+      "پلیس"
+    ],
+    "options_en": [
+      "MCLS",
+      "municipality",
+      "no license",
+      "police"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "مجوز وزارت کار.",
+    "explanation_en": "MCLS license.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q04",
+    "question_fa": "آیا کاریابی می‌تواند از کارجو پول بگیرد؟",
+    "question_en": "Can agency charge seeker?",
+    "options_fa": [
+      "بله آزاد",
+      "خیر ممنوع",
+      "فقط 10%",
+      "فقط از کارفرما"
+    ],
+    "options_en": [
+      "yes free",
+      "no prohibited",
+      "only 10%",
+      "only employer"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "دریافت از کارجو ممنوع.",
+    "explanation_en": "Charging seeker prohibited.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q05",
+    "question_fa": "حداقل سن کار در ایران؟",
+    "question_en": "Minimum working age Iran?",
+    "options_fa": [
+      "10",
+      "15",
+      "18",
+      "12"
+    ],
+    "options_en": [
+      "10",
+      "15",
+      "18",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ماده 79: زیر 15 ممنوع.",
+    "explanation_en": "Art 79: under 15 prohibited.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q06",
+    "question_fa": "ساعت کار هفتگی ایران؟",
+    "question_en": "Weekly hours Iran?",
+    "options_fa": [
+      "44",
+      "40",
+      "48",
+      "60"
+    ],
+    "options_en": [
+      "44",
+      "40",
+      "48",
+      "60"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "44 ساعت در هفته.",
+    "explanation_en": "44h/week.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q07",
+    "question_fa": "اضافه‌کاری چقدر اضافه دارد؟",
+    "question_en": "Overtime extra?",
+    "options_fa": [
+      "10%",
+      "40%",
+      "100%",
+      "بدون"
+    ],
+    "options_en": [
+      "10%",
+      "40%",
+      "100%",
+      "none"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "40% بیشتر.",
+    "explanation_en": "40% extra.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q08",
+    "question_fa": "قرارداد موقت حداکثر؟",
+    "question_en": "Temporary contract max?",
+    "options_fa": [
+      "1 ماه",
+      "بدون محدودیت ولی کتبی",
+      "10 سال",
+      "1 هفته"
+    ],
+    "options_en": [
+      "1 month",
+      "no limit but written",
+      "10y",
+      "1 week"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "باید کتبی باشد.",
+    "explanation_en": "Must be written.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q09",
+    "question_fa": "مرجع حل اختلاف کارگر کارفرما؟",
+    "question_en": "Dispute resolution?",
+    "options_fa": [
+      "دادگاه عمومی",
+      "هیات تشخیص اداره کار",
+      "شورای شهر",
+      "پلیس"
+    ],
+    "options_en": [
+      "general court",
+      "labor board",
+      "city council",
+      "police"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "هیات تشخیص اداره کار.",
+    "explanation_en": "Labor board.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d03",
+    "q_id": "d03_q10",
+    "question_fa": "بیمه تامین اجتماعی چند درصد؟",
+    "question_en": "Social insurance percent?",
+    "options_fa": [
+      "حدود 30% حقوق",
+      "5%",
+      "50%",
+      "1%"
+    ],
+    "options_en": [
+      "30% salary",
+      "5%",
+      "50%",
+      "1%"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "حدود 30% (7% کارگر 20% کارفرما 3% دولت).",
+    "explanation_en": "About 30% (7+20+3).",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q01",
+    "question_fa": "قانون 80% چیست؟",
+    "question_en": "What is 80% rule?",
+    "options_fa": [
+      "عدالت نتیجه",
+      "نوع ویزا",
+      "مالیات",
+      "بیمه"
+    ],
+    "options_en": [
+      "outcome fairness",
+      "visa",
+      "tax",
+      "insurance"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "اگر نرخ قبولی گروهی کمتر از 80% گروه دیگر باشد تبعیض.",
+    "explanation_en": "If selection rate <80% of highest group, adverse impact.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q02",
+    "question_fa": "Amazon hiring tool چرا شکست خورد؟",
+    "question_en": "Why Amazon tool failed?",
+    "options_fa": [
+      "کند بود",
+      "رزومه‌های دارای women را منفی می‌کرد",
+      "گران بود",
+      "فقط انگلیسی"
+    ],
+    "options_en": [
+      "slow",
+      "penalized resumes with women",
+      "expensive",
+      "only English"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "داده تاریخی مردانه بود.",
+    "explanation_en": "Historical data male-biased.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q03",
+    "question_fa": "EU AI Act استخدام را چه ریسکی می‌داند؟",
+    "question_en": "EU AI Act risk for hiring?",
+    "options_fa": [
+      "low",
+      "high-risk",
+      "ممنوع کامل",
+      "بدون ریسک"
+    ],
+    "options_en": [
+      "low",
+      "high-risk",
+      "banned",
+      "no risk"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "استخدام = high-risk.",
+    "explanation_en": "Hiring = high-risk.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q04",
+    "question_fa": "proxy discrimination چیست؟",
+    "question_en": "What is proxy discrimination?",
+    "options_fa": [
+      "تبعیض مستقیم",
+      "ویژگی همبسته با ویژگی حساس",
+      "تبعیض مثبت",
+      "بدون تبعیض"
+    ],
+    "options_en": [
+      "direct",
+      "correlated feature with sensitive",
+      "positive",
+      "none"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "مثلا کدپستی به جای نژاد.",
+    "explanation_en": "E.g., zip code as proxy for race.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q05",
+    "question_fa": "explainability چرا مهم است؟",
+    "question_en": "Why explainability important?",
+    "options_fa": [
+      "تبلیغات",
+      "اعتماد و حق اعتراض کارجو",
+      "فروش داده",
+      "غیرمهم"
+    ],
+    "options_en": [
+      "ads",
+      "trust and right to contest",
+      "sell data",
+      "unimportant"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "کارجو باید بداند چرا رد شد.",
+    "explanation_en": "Candidate must know why rejected.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q06",
+    "question_fa": "کدام روش کاهش سوگیری است؟",
+    "question_en": "Which bias mitigation?",
+    "options_fa": [
+      "تنوع داده + audit + human-in-loop",
+      "فقط داده بیشتر",
+      "حذف همه داده",
+      "فقط مدل بزرگتر"
+    ],
+    "options_en": [
+      "diverse data + audit + HITL",
+      "only more data",
+      "delete all",
+      "only bigger model"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "تنوع داده، حسابرسی، انسان در حلقه.",
+    "explanation_en": "Diverse data, audit, human-in-loop.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q07",
+    "question_fa": "face analysis در استخدام طبق EU AI Act؟",
+    "question_en": "Face analysis in hiring per AI Act?",
+    "options_fa": [
+      "تشویق می‌شود",
+      "ممنوع برای استنباط احساس در کار",
+      "آزاد",
+      "فقط برای زنان"
+    ],
+    "options_en": [
+      "encouraged",
+      "prohibited to infer emotion at work",
+      "free",
+      "only women"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "استنباط احساس در محیط کار ممنوع.",
+    "explanation_en": "Inferring emotion at work prohibited.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q08",
+    "question_fa": "demographic parity چیست؟",
+    "question_en": "What is demographic parity?",
+    "options_fa": [
+      "نرخ قبولی برابر گروه‌ها",
+      "دقت برابر",
+      "حقوق برابر",
+      "سن برابر"
+    ],
+    "options_en": [
+      "equal selection rates",
+      "equal accuracy",
+      "equal salary",
+      "equal age"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "نرخ انتخاب برابر.",
+    "explanation_en": "Equal selection rates.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q09",
+    "question_fa": "equal opportunity چیست؟",
+    "question_en": "What is equal opportunity?",
+    "options_fa": [
+      "نرخ قبولی برابر",
+      "نرخ true positive برابر برای واجدین",
+      "حقوق برابر",
+      "بدون تعریف"
+    ],
+    "options_en": [
+      "equal selection",
+      "equal TPR for qualified",
+      "equal salary",
+      "no def"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "TPR برابر برای افراد واجد شرایط.",
+    "explanation_en": "Equal TPR for qualified.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d04",
+    "q_id": "d04_q10",
+    "question_fa": "human-in-the-loop یعنی؟",
+    "question_en": "Human-in-the-loop means?",
+    "options_fa": [
+      "AI کاملا خودکار",
+      "انسان تصمیم نهایی را بازبینی می‌کند",
+      "انسان برنامه‌نویسی نمی‌کند",
+      "AI بدون انسان"
+    ],
+    "options_en": [
+      "fully auto AI",
+      "human reviews final decision",
+      "human doesn't code",
+      "AI without human"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "انسان ناظر نهایی.",
+    "explanation_en": "Human reviews final.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q01",
+    "question_fa": "مدل اوبر چیست؟",
+    "question_en": "What is Uber model?",
+    "options_fa": [
+      "فروش کالا",
+      "بازار دوطرفه تطبیق",
+      "بانک",
+      "شبکه اجتماعی"
+    ],
+    "options_en": [
+      "retail",
+      "two-sided matching",
+      "bank",
+      "social"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "دو طرفه: عرضه و تقاضا را وصل می‌کند.",
+    "explanation_en": "Two-sided: connects supply demand.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q02",
+    "question_fa": "network effects یعنی؟",
+    "question_en": "Network effects means?",
+    "options_fa": [
+      "هرچه کاربر بیشتر ارزش بیشتر",
+      "هرچه کاربر بیشتر ارزش کمتر",
+      "بدون اثر",
+      "فقط برای راننده"
+    ],
+    "options_en": [
+      "more users more value",
+      "more users less value",
+      "no effect",
+      "only driver"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "ارزش با تعداد کاربر بیشتر می‌شود.",
+    "explanation_en": "Value increases with users.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q03",
+    "question_fa": "liquidity در مارکت‌پلیس یعنی؟",
+    "question_en": "Liquidity in marketplace?",
+    "options_fa": [
+      "پول نقد",
+      "احتمال مچ سریع در هر شهر/دسته",
+      "آب",
+      "نفت"
+    ],
+    "options_en": [
+      "cash",
+      "prob of fast match per city/category",
+      "water",
+      "oil"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "نقدشوندگی = مچ سریع.",
+    "explanation_en": "Liquidity = fast match.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q04",
+    "question_fa": "dispatch vs search؟",
+    "question_en": "Dispatch vs search?",
+    "options_fa": [
+      "جستجو لیست 250 صفحه‌ای",
+      "سیستم 3 پیشنهاد با دلیل می‌دهد",
+      "فقط تبلیغ",
+      "فقط چت"
+    ],
+    "options_en": [
+      "search 250 pages",
+      "system gives 3 suggestions with reason",
+      "only ad",
+      "only chat"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "dispatch مثل اوبر پیشنهاد می‌دهد.",
+    "explanation_en": "Dispatch like Uber suggests.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q05",
+    "question_fa": "take-rate چیست؟",
+    "question_en": "What is take-rate?",
+    "options_fa": [
+      "درصد کارمزد پلتفرم",
+      "مالیات دولت",
+      "حقوق کارگر",
+      "هزینه اینترنت"
+    ],
+    "options_en": [
+      "platform commission %",
+      "gov tax",
+      "worker salary",
+      "internet cost"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "درصدی که پلتفرم برمی‌دارد.",
+    "explanation_en": "% platform takes.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q06",
+    "question_fa": "disintermediation یعنی؟",
+    "question_en": "Disintermediation means?",
+    "options_fa": [
+      "واسطه حذف شود",
+      "واسطه اضافه شود",
+      "واسطه گران شود",
+      "بدون واسطه از اول"
+    ],
+    "options_en": [
+      "bypass platform",
+      "add middleman",
+      "expensive middleman",
+      "no middleman from start"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "کاربر بعد از معرفی پلتفرم را دور بزند.",
+    "explanation_en": "User bypasses after intro.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q07",
+    "question_fa": "Snapp در ایران چیست؟",
+    "question_en": "What is Snapp in Iran?",
+    "options_fa": [
+      "سوپراپ شبیه اوبر",
+      "بانک",
+      "فقط تاکسی تلفنی",
+      "فقط غذا"
+    ],
+    "options_en": [
+      "superapp like Uber",
+      "bank",
+      "only phone taxi",
+      "only food"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "سوپراپ حمل‌ونقل، غذا، خرید.",
+    "explanation_en": "Superapp transport food etc.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q08",
+    "question_fa": "چرا با عمود آبی شروع کنیم؟",
+    "question_en": "Why start with blue-collar vertical?",
+    "options_fa": [
+      "سخت‌تر است",
+      "liquidity سریع‌تر، رقابت کمتر، نیاز واقعی",
+      "پول بیشتر",
+      "مد روز"
+    ],
+    "options_en": [
+      "harder",
+      "faster liquidity less competition real need",
+      "more money",
+      "trendy"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "نقدشوندگی سریع‌تر.",
+    "explanation_en": "Faster liquidity.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q09",
+    "question_fa": "surge pricing چیست؟",
+    "question_en": "What is surge pricing?",
+    "options_fa": [
+      "قیمت ثابت",
+      "قیمت پویا با عرضه تقاضا",
+      "قیمت دولتی",
+      "رایگان"
+    ],
+    "options_en": [
+      "fixed price",
+      "dynamic with supply demand",
+      "gov price",
+      "free"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "قیمت با تقاضا بالا می‌رود.",
+    "explanation_en": "Price rises with demand.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d05",
+    "q_id": "d05_q10",
+    "question_fa": "KPI هفته‌های اول مارکت‌پلیس؟",
+    "question_en": "KPI first weeks marketplace?",
+    "options_fa": [
+      "تعداد آگهی معتبر تازه و کارجوی تایید شده",
+      "فقط تعداد دانلود",
+      "فقط فالوئر",
+      "فقط پول"
+    ],
+    "options_en": [
+      "fresh valid ads & verified seekers",
+      "only downloads",
+      "only followers",
+      "only money"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "آگهی تازه و کارجوی تایید شده.",
+    "explanation_en": "Fresh ads & verified seekers.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q01",
+    "question_fa": "OFAC چیست؟",
+    "question_en": "What is OFAC?",
+    "options_fa": [
+      "سازمان تحریم آمریکا",
+      "بانک ترکیه",
+      "نوع ویزا",
+      "بیمه"
+    ],
+    "options_en": [
+      "US sanctions org",
+      "TR bank",
+      "visa",
+      "insurance"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "Office of Foreign Assets Control.",
+    "explanation_en": "Office of Foreign Assets Control.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q02",
+    "question_fa": "Halkbank چرا جریمه شد؟",
+    "question_en": "Why Halkbank penalized?",
+    "options_fa": [
+      "تاخیر وام",
+      "کمک به ایران برای دور زدن تحریم",
+      "پارک دوبل",
+      "مالیات"
+    ],
+    "options_en": [
+      "loan delay",
+      "helping Iran evade sanctions",
+      "double park",
+      "tax"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "انتقال 20 میلیارد دلار با فاکتور غذای جعلی.",
+    "explanation_en": "Transfer $20B with fake food invoices.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q03",
+    "question_fa": "آیا کریپتو برای دور زدن تحریم ایران قانونی است؟",
+    "question_en": "Is crypto to evade Iran sanctions legal?",
+    "options_fa": [
+      "بله آزاد",
+      "خیر ممنوع، کریپتو = پول",
+      "فقط بیت‌کوین آزاد",
+      "فقط تتر آزاد"
+    ],
+    "options_en": [
+      "yes free",
+      "no banned crypto=money",
+      "only BTC free",
+      "only USDT free"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "OFAC FAQ 559: دارایی دیجیتال = property.",
+    "explanation_en": "OFAC FAQ 559: digital asset = property.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q04",
+    "question_fa": "U-Turn payment چیست و وضعیت فعلی؟",
+    "question_en": "U-Turn payment status?",
+    "options_fa": [
+      "حواله دلار از ایران از طریق آمریکا",
+      "ممنوع از 2008",
+      "آزاد",
+      "فقط برای غذا"
+    ],
+    "options_en": [
+      "USD via US",
+      "banned since 2008",
+      "free",
+      "only food"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "از 10 نوامبر 2008 ممنوع.",
+    "explanation_en": "Banned since Nov 10 2008.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q05",
+    "question_fa": "hawala چیست؟",
+    "question_en": "What is hawala?",
+    "options_fa": [
+      "بانک رسمی",
+      "انتقال غیررسمی ارزش بدون جابجایی فیزیکی پول",
+      "نوع ویزا",
+      "نوع غذا"
+    ],
+    "options_en": [
+      "formal bank",
+      "informal value transfer without moving money",
+      "visa",
+      "food"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "شبکه اعتماد غیررسمی.",
+    "explanation_en": "Informal trust network.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q06",
+    "question_fa": "آیا بانک‌های ترکیه با تراکنش ایران ریسک ثانویه دارند؟",
+    "question_en": "Do TR banks have secondary sanctions risk?",
+    "options_fa": [
+      "خیر",
+      "بله، اگر تراکنش قابل توجه با SDN",
+      "فقط دولتی‌ها",
+      "فقط خصوصی‌ها"
+    ],
+    "options_en": [
+      "no",
+      "yes if significant with SDN",
+      "only state",
+      "only private"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "CAATSA 228.",
+    "explanation_en": "CAATSA 228.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q07",
+    "question_fa": "مالیات بر درآمد در تکنوپارک ترکیه؟",
+    "question_en": "Income tax in technopark Turkey?",
+    "options_fa": [
+      "0% معاف",
+      "100%",
+      "50%",
+      "200%"
+    ],
+    "options_en": [
+      "0% exempt",
+      "100%",
+      "50%",
+      "200%"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "پرسنل R&D معاف از مالیات بر درآمد.",
+    "explanation_en": "R&D personnel exempt.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q08",
+    "question_fa": "حداقل سرمایه برای Ltd در ترکیه؟",
+    "question_en": "Min capital for Ltd in Turkey?",
+    "options_fa": [
+      "10k TL اسمی",
+      "1M TL",
+      "100k TL",
+      "بدون سرمایه"
+    ],
+    "options_en": [
+      "10k TL nominal",
+      "1M",
+      "100k",
+      "no capital"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "10k TL اسمی، 1/4 در ثبت.",
+    "explanation_en": "10k nominal, 1/4 at registration.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q09",
+    "question_fa": "SWIFT ایران چه شد؟",
+    "question_en": "What happened to SWIFT Iran?",
+    "options_fa": [
+      "متصل است",
+      "قطع برای بانک‌های تحریمی",
+      "سریع‌تر شد",
+      "رایگان شد"
+    ],
+    "options_en": [
+      "connected",
+      "cut for sanctioned banks",
+      "faster",
+      "free"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "بانک‌های تحریمی از SWIFT قطع.",
+    "explanation_en": "Sanctioned banks cut from SWIFT.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d06",
+    "q_id": "d06_q10",
+    "question_fa": "Tether USDT می‌تواند فریز شود؟",
+    "question_en": "Can Tether USDT be frozen?",
+    "options_fa": [
+      "خیر",
+      "بله روی بلاکچین",
+      "فقط در صرافی ایرانی",
+      "فقط در آمریکا"
+    ],
+    "options_en": [
+      "no",
+      "yes on blockchain",
+      "only Iranian exchange",
+      "only US"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "تتر می‌تواند آدرس را بلاک کند.",
+    "explanation_en": "Tether can block address.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q01",
+    "question_fa": "حداقل دستمزد ترکیه 2025 چقدر اعلام شد؟",
+    "question_en": "Min wage Turkey 2025?",
+    "options_fa": [
+      "10k TL",
+      "26,005 TL",
+      "50k TL",
+      "5k TL"
+    ],
+    "options_en": [
+      "10k",
+      "26,005",
+      "50k",
+      "5k"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "حداقل 26,005 TL ناخالص.",
+    "explanation_en": "Min 26,005 TL gross.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q02",
+    "question_fa": "SGK چیست؟",
+    "question_en": "What is SGK?",
+    "options_fa": [
+      "بیمه تامین اجتماعی ترکیه",
+      "بانک",
+      "ویزا",
+      "مدرسه"
+    ],
+    "options_en": [
+      "Turkish social security",
+      "bank",
+      "visa",
+      "school"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "Sosyal Güvenlik Kurumu.",
+    "explanation_en": "Social Security Institution.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q03",
+    "question_fa": "قانون کار ترکیه شماره؟",
+    "question_en": "Turkish Labor Law number?",
+    "options_fa": [
+      "4857",
+      "6698",
+      "6735",
+      "6458"
+    ],
+    "options_en": [
+      "4857",
+      "6698",
+      "6735",
+      "6458"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "4857 قانون کار، 6698 KVKK، 6735 کار بین‌المللی.",
+    "explanation_en": "4857 labor, 6698 KVKK, 6735 international.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q04",
+    "question_fa": "اضافه‌کاری در ترکیه چند درصد اضافه؟",
+    "question_en": "Overtime extra Turkey?",
+    "options_fa": [
+      "25%",
+      "50%",
+      "100%",
+      "0%"
+    ],
+    "options_en": [
+      "25%",
+      "50%",
+      "100%",
+      "0%"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "50% اضافه، هر ساعت 1.5 برابر.",
+    "explanation_en": "50% extra, 1.5x.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q05",
+    "question_fa": "کدام شغل برای خارجی ممنوع است؟",
+    "question_en": "Which job forbidden for foreigner?",
+    "options_fa": [
+      "برنامه‌نویس",
+      "دندانپزشک بدون معادل",
+      "انباردار",
+      "راننده کامیون"
+    ],
+    "options_en": [
+      "programmer",
+      "dentist without equivalence",
+      "warehouse",
+      "truck driver"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "پزشکی، دندانپزشکی، وکالت، امنیت.",
+    "explanation_en": "Medical, dentistry, law, security.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q06",
+    "question_fa": "ILO C155 درباره؟",
+    "question_en": "ILO C155 about?",
+    "options_fa": [
+      "مهاجرت",
+      "ایمنی و بهداشت شغلی",
+      "مالیات",
+      "ویزا"
+    ],
+    "options_en": [
+      "migration",
+      "occupational safety health",
+      "tax",
+      "visa"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ایمنی و بهداشت شغلی.",
+    "explanation_en": "Occupational safety and health.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q07",
+    "question_fa": "حادثه کار در ترکیه باید چند روزه گزارش شود؟",
+    "question_en": "Work accident report deadline?",
+    "options_fa": [
+      "3 روز",
+      "3 روز کاری به SGK",
+      "30 روز",
+      "1 سال"
+    ],
+    "options_en": [
+      "3 days",
+      "3 workdays to SGK",
+      "30 days",
+      "1 year"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "3 روز کاری به SGK.",
+    "explanation_en": "3 workdays to SGK.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q08",
+    "question_fa": "کارگر یقه‌آبی بدون بیمه چه ریسکی دارد؟",
+    "question_en": "Risk of blue-collar without insurance?",
+    "options_fa": [
+      "بدون ریسک",
+      "جریمه سنگین + مسئولیت حادثه + ابطال اجازه کار",
+      "فقط اخطار",
+      "فقط جریمه کم"
+    ],
+    "options_en": [
+      "no risk",
+      "heavy fine + accident liability + permit cancel",
+      "only warning",
+      "small fine"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "جریمه + مسئولیت + ابطال.",
+    "explanation_en": "Fine + liability + cancel.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q09",
+    "question_fa": "حداکثر ساعت کار هفتگی ترکیه؟",
+    "question_en": "Max weekly hours Turkey?",
+    "options_fa": [
+      "45",
+      "60",
+      "30",
+      "80"
+    ],
+    "options_en": [
+      "45",
+      "60",
+      "30",
+      "80"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "45 ساعت عادی.",
+    "explanation_en": "45h normal.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d07",
+    "q_id": "d07_q10",
+    "question_fa": "آیا کارفرما می‌تواند پاسپورت کارگر را بگیرد؟",
+    "question_en": "Can employer take passport?",
+    "options_fa": [
+      "بله",
+      "خیر ممنوع",
+      "فقط کپی",
+      "فقط با رضایت کتبی"
+    ],
+    "options_en": [
+      "yes",
+      "no prohibited",
+      "only copy",
+      "only written consent"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ممنوع، مصداق کار اجباری.",
+    "explanation_en": "Prohibited, forced labor.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q01",
+    "question_fa": "ESCO چند مهارت دارد؟",
+    "question_en": "How many skills ESCO?",
+    "options_fa": [
+      "70",
+      "13,890",
+      "1,000",
+      "500"
+    ],
+    "options_en": [
+      "70",
+      "13,890",
+      "1k",
+      "500"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "13,890 مهارت شامل skill, knowledge, attitude.",
+    "explanation_en": "13,890 including skill knowledge attitude.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q02",
+    "question_fa": "O*NET چند شغل دارد؟",
+    "question_en": "How many occupations O*NET?",
+    "options_fa": [
+      "70",
+      "1,016",
+      "3,007",
+      "10,000"
+    ],
+    "options_en": [
+      "70",
+      "1,016",
+      "3,007",
+      "10k"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "حدود 1,016 شغل.",
+    "explanation_en": "About 1,016 occupations.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q03",
+    "question_fa": "CareerBERT چیست؟",
+    "question_en": "What is CareerBERT?",
+    "options_fa": [
+      "مدل تطبیق رزومه به ESCO با embedding مشترک",
+      "ربات چت",
+      "بانک",
+      "ویزا"
+    ],
+    "options_en": [
+      "resume to ESCO matching with shared embedding",
+      "chatbot",
+      "bank",
+      "visa"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "embedding مشترک رزومه و شغل.",
+    "explanation_en": "Shared embedding resume job.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q04",
+    "question_fa": "crosswalk ESCO-O*NET چگونه ساخته شد؟",
+    "question_en": "How ESCO-O*NET crosswalk built?",
+    "options_fa": [
+      "دستی کامل",
+      "الگوریتم تشابه معنایی + تایید انسانی",
+      "تصادفی",
+      "ترجمه ماشینی فقط"
+    ],
+    "options_en": [
+      "fully manual",
+      "semantic similarity + human validation",
+      "random",
+      "only MT"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "AI تشابه + بازبینی متخصص.",
+    "explanation_en": "AI similarity + expert review.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q05",
+    "question_fa": "SkillSpan چیست؟",
+    "question_en": "What is SkillSpan?",
+    "options_fa": [
+      "دیتاست استخراج مهارت از آگهی",
+      "نوع ویزا",
+      "بانک",
+      "غذا"
+    ],
+    "options_en": [
+      "skill extraction dataset from postings",
+      "visa",
+      "bank",
+      "food"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "دیتاست برچسب مهارت.",
+    "explanation_en": "Skill labeled dataset.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q06",
+    "question_fa": "چرا 'kaynak' در ترکی مشکل‌ساز است؟",
+    "question_en": "Why 'kaynak' problematic in Turkish?",
+    "options_fa": [
+      "فقط به معنی منبع",
+      "هم جوشکاری هم منبع کد (polysemy)",
+      "فقط جوشکاری",
+      "بدون معنی"
+    ],
+    "options_en": [
+      "only source",
+      "both welding and code source (polysemy)",
+      "only welding",
+      "no meaning"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "جوشکار به برنامه‌نویس مچ می‌خورد.",
+    "explanation_en": "Welder matched to programmer.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q07",
+    "question_fa": "بهترین مدل فعلی MTEB چندزبانه؟",
+    "question_en": "Best current MTEB multilingual?",
+    "options_fa": [
+      "e5-small",
+      "Qwen3-Embedding-8B top 1-3",
+      "BERT 2018",
+      "Word2Vec"
+    ],
+    "options_en": [
+      "e5-small",
+      "Qwen3-Embedding-8B top 1-3",
+      "BERT 2018",
+      "Word2Vec"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "Qwen3-Embedding رتبه 1-3.",
+    "explanation_en": "Qwen3-Embedding rank 1-3.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q08",
+    "question_fa": "چند بعد دارد e5-large؟",
+    "question_en": "Dimensions e5-large?",
+    "options_fa": [
+      "384",
+      "768",
+      "1024",
+      "2048"
+    ],
+    "options_en": [
+      "384",
+      "768",
+      "1024",
+      "2048"
+    ],
+    "correct_index": 2,
+    "explanation_fa": "1024 بعد.",
+    "explanation_en": "1024 dims.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q09",
+    "question_fa": "هدف LEXICON 70 مهارته ما چیست؟",
+    "question_en": "Goal of our 70-skill LEXICON?",
+    "options_fa": [
+      "جایگزین ESCO",
+      "فیلتر سریع برای جلوگیری از مچ بی‌ربط",
+      "فروش",
+      "بدون هدف"
+    ],
+    "options_en": [
+      "replace ESCO",
+      "fast filter to prevent irrelevant match",
+      "sell",
+      "no goal"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "فیلتر سریع، ESCO مرجع کامل.",
+    "explanation_en": "Fast filter, ESCO full ref.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d08",
+    "q_id": "d08_q10",
+    "question_fa": "knowledge graph برای مچینگ چه مزیتی دارد؟",
+    "question_en": "Knowledge graph advantage for matching?",
+    "options_fa": [
+      "بدون مزیت",
+      "روابط سلسله‌مراتبی مهارت‌ها را نگه می‌دارد",
+      "فقط زیبایی",
+      "فقط سرعت"
+    ],
+    "options_en": [
+      "no advantage",
+      "keeps hierarchical relations",
+      "only beauty",
+      "only speed"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "سلسله‌مراتب مهارت حفظ می‌شود.",
+    "explanation_en": "Hierarchy preserved.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q01",
+    "question_fa": "ادمین کانال تلگرام از نظر GDPR چیست؟",
+    "question_en": "Channel admin under GDPR?",
+    "options_fa": [
+      "کنترلر داده",
+      "پردازشگر",
+      "هیچ",
+      "کاربر"
+    ],
+    "options_en": [
+      "controller",
+      "processor",
+      "none",
+      "user"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "ادمین = کنترلر داده.",
+    "explanation_en": "Admin = controller.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q02",
+    "question_fa": "آیا تلگرام DPA عمومی دارد؟",
+    "question_en": "Does Telegram have public DPA?",
+    "options_fa": [
+      "بله",
+      "خیر ندارد",
+      "فقط برای ایرانی‌ها",
+      "فقط برای ترک‌ها"
+    ],
+    "options_en": [
+      "yes",
+      "no",
+      "only Iranians",
+      "only Turks"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "DPA عمومی منتشر نکرده.",
+    "explanation_en": "No public DPA.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q03",
+    "question_fa": "EU AI Act Art 50 درباره بات چه می‌گوید؟",
+    "question_en": "EU AI Act Art 50 about bots?",
+    "options_fa": [
+      "بدون قانون",
+      "باید بگوید با AI صحبت می‌کنی از اوت 2026",
+      "فقط برای دولتی",
+      "فقط برای پزشکی"
+    ],
+    "options_en": [
+      "no law",
+      "must disclose AI interaction from Aug 2026",
+      "only gov",
+      "only medical"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "شفافیت بات اجباری.",
+    "explanation_en": "Bot transparency mandatory.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q04",
+    "question_fa": "consent log در KVKK چیست؟",
+    "question_en": "Consent log in KVKK?",
+    "options_fa": [
+      "بدون نیاز",
+      "ثبت زمان، متن رضایت، توکن",
+      "فقط نام",
+      "فقط ایمیل"
+    ],
+    "options_en": [
+      "no need",
+      "record time text token",
+      "only name",
+      "only email"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "باید زمان، متن، توکن لاگ شود.",
+    "explanation_en": "Must log time text token.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q05",
+    "question_fa": "دستور /hayir در ربات ما چه می‌کند؟",
+    "question_en": "What does /hayir do in our bot?",
+    "options_fa": [
+      "تبلیغ",
+      "حذف کامل داده‌ها (حق فراموشی)",
+      "ارسال رزومه",
+      "شارژ"
+    ],
+    "options_en": [
+      "ad",
+      "complete deletion (right to be forgotten)",
+      "send resume",
+      "charge"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "حذف کاندید + مچ + لاگ revoke.",
+    "explanation_en": "Delete candidate + matches + revoke log.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q06",
+    "question_fa": "آیا کپی پیام کاربران بدون اطلاع مجاز است؟",
+    "question_en": "Is copying user messages without notice allowed?",
+    "options_fa": [
+      "بله",
+      "خیر نقض KVKK/GDPR",
+      "فقط برای ادمین",
+      "فقط برای بات"
+    ],
+    "options_en": [
+      "yes",
+      "no violates KVKK/GDPR",
+      "only admin",
+      "only bot"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "نقض اصل شفافیت و حداقل‌سازی.",
+    "explanation_en": "Violates transparency minimization.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q07",
+    "question_fa": "Telegram Bot API کجا هاست می‌شود؟",
+    "question_en": "Where Telegram Bot API hosted?",
+    "options_fa": [
+      "ایران",
+      "خارج EU، شفافیت محل داده محدود",
+      "فقط آلمان",
+      "فقط ترکیه"
+    ],
+    "options_en": [
+      "Iran",
+      "outside EU limited transparency",
+      "only Germany",
+      "only Turkey"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "خارج EEA، محل دقیق نامشخص.",
+    "explanation_en": "Outside EEA, location unclear.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q08",
+    "question_fa": "چرا شماره خام ذخیره نمی‌کنیم؟",
+    "question_en": "Why not store raw phone?",
+    "options_fa": [
+      "برای فروش",
+      "اصل حداقل‌سازی و ریسک نشت",
+      "تصادفی",
+      "برای تبلیغ"
+    ],
+    "options_en": [
+      "sell",
+      "minimization & leak risk",
+      "random",
+      "ad"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "hash کافی است.",
+    "explanation_en": "Hash enough.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q09",
+    "question_fa": "آیا عضویت در کانال = رضایت بازاریابی است؟",
+    "question_en": "Is channel membership = marketing consent?",
+    "options_fa": [
+      "بله",
+      "خیر جداگانه باید رضایت بازاریابی گرفت",
+      "فقط برای ایرانی‌ها",
+      "فقط برای ترک‌ها"
+    ],
+    "options_en": [
+      "yes",
+      "no separate marketing consent needed",
+      "only Iranians",
+      "only Turks"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "عضویت ≠ رضایت بازاریابی.",
+    "explanation_en": "Membership ≠ marketing consent.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d09",
+    "q_id": "d09_q10",
+    "question_fa": "بهترین روش اطلاع‌رسانی حریم خصوصی در کانال؟",
+    "question_en": "Best privacy notice method in channel?",
+    "options_fa": [
+      "هیچ",
+      "پین کردن یادداشت کوتاه حریم خصوصی",
+      "فقط در وب‌سایت",
+      "فقط شفاهی"
+    ],
+    "options_en": [
+      "none",
+      "pin short privacy note",
+      "only website",
+      "only verbal"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "یادداشت پین شده.",
+    "explanation_en": "Pinned note.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q01",
+    "question_fa": "multilingual-e5-large چند بعد دارد؟",
+    "question_en": "Dimensions e5-large?",
+    "options_fa": [
+      "384",
+      "768",
+      "1024",
+      "2048"
+    ],
+    "options_en": [
+      "384",
+      "768",
+      "1024",
+      "2048"
+    ],
+    "correct_index": 2,
+    "explanation_fa": "1024 بعد.",
+    "explanation_en": "1024 dims.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q02",
+    "question_fa": "برای query در e5 چه prefix لازم است؟",
+    "question_en": "What prefix for query in e5?",
+    "options_fa": [
+      "بدون",
+      "'query: ' یا instruction",
+      "'passage: '",
+      "'doc: '"
+    ],
+    "options_en": [
+      "none",
+      "'query: ' or instruction",
+      "'passage: '",
+      "'doc: '"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "query: یا Instruct: Query:",
+    "explanation_en": "query: or Instruct: Query:",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q03",
+    "question_fa": "برای passage در e5؟",
+    "question_en": "For passage in e5?",
+    "options_fa": [
+      "'query: '",
+      "'passage: '",
+      "بدون",
+      "'doc: '"
+    ],
+    "options_en": [
+      "'query: '",
+      "'passage: '",
+      "none",
+      "'doc: '"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "passage:",
+    "explanation_en": "passage:",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q04",
+    "question_fa": "کدام مدل MTEB چندزبانه رتبه 1-3 است؟",
+    "question_en": "Which model MTEB top 1-3?",
+    "options_fa": [
+      "Word2Vec",
+      "Qwen3-Embedding-8B",
+      "BERT",
+      "e5-small"
+    ],
+    "options_en": [
+      "Word2Vec",
+      "Qwen3-Embedding-8B",
+      "BERT",
+      "e5-small"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "Qwen3-Embedding.",
+    "explanation_en": "Qwen3-Embedding.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q05",
+    "question_fa": "cross-lingual retrieval یعنی؟",
+    "question_en": "Cross-lingual retrieval means?",
+    "options_fa": [
+      "فقط انگلیسی به انگلیسی",
+      "پرسش فارسی، مدرک ترکی مچ شود",
+      "فقط ترکی به ترکی",
+      "بدون معنی"
+    ],
+    "options_en": [
+      "only en-en",
+      "fa query matches tr doc",
+      "only tr-tr",
+      "no meaning"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "پرسش یک زبان، مدرک زبان دیگر.",
+    "explanation_en": "Query one lang doc other.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q06",
+    "question_fa": "چرا e5-base برای ما مناسب نیست؟",
+    "question_en": "Why e5-base not suitable?",
+    "options_fa": [
+      "هیچ provider ندارد (null)",
+      "گران است",
+      "کند است",
+      "بدون فارسی"
+    ],
+    "options_en": [
+      "no provider (null)",
+      "expensive",
+      "slow",
+      "no Persian"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "در HF inference mapping null است.",
+    "explanation_en": "Null in HF mapping.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q07",
+    "question_fa": "برای fine-tune چه loss مناسب است؟",
+    "question_en": "What loss for fine-tune?",
+    "options_fa": [
+      "cross-entropy ساده",
+      "contrastive / InfoNCE",
+      "MSE",
+      "بدون loss"
+    ],
+    "options_en": [
+      "simple CE",
+      "contrastive / InfoNCE",
+      "MSE",
+      "no loss"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "contrastive برای embedding.",
+    "explanation_en": "Contrastive for embedding.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q08",
+    "question_fa": "golden dataset چیست؟",
+    "question_en": "What is golden dataset?",
+    "options_fa": [
+      "داده تصادفی",
+      "50-100 جفت query-doc واقعی برچسب‌خورده",
+      "فقط داده مصنوعی",
+      "بدون داده"
+    ],
+    "options_en": [
+      "random data",
+      "50-100 real labeled query-doc pairs",
+      "only synthetic",
+      "no data"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "جفت‌های واقعی برچسب‌خورده.",
+    "explanation_en": "Real labeled pairs.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q09",
+    "question_fa": "Recall@k چیست؟",
+    "question_en": "What is Recall@k?",
+    "options_fa": [
+      "دقت",
+      "سهم جواب درست در k تای اول",
+      "سرعت",
+      "حافظه"
+    ],
+    "options_en": [
+      "precision",
+      "share of correct in top k",
+      "speed",
+      "memory"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "سهم بازیابی در k اول.",
+    "explanation_en": "Share retrieved in top k.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d10",
+    "q_id": "d10_q10",
+    "question_fa": "چگونه مدل را برای ایران سبک کنیم؟",
+    "question_en": "How to make model light for Iran?",
+    "options_fa": [
+      "بدون تغییر",
+      "ONNX + quantization به 300MB",
+      "فقط بزرگتر",
+      "فقط انگلیسی"
+    ],
+    "options_en": [
+      "no change",
+      "ONNX + quantization to 300MB",
+      "only bigger",
+      "only English"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ONNX + کوانتیزاسیون.",
+    "explanation_en": "ONNX + quantization.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q01",
+    "question_fa": "عامل دافعه (push) مهاجرت چیست؟",
+    "question_en": "Push factor migration?",
+    "options_fa": [
+      "بیکاری در مبدا",
+      "فرصت شغلی در مقصد",
+      "بورسیه مقصد",
+      "امنیت مقصد"
+    ],
+    "options_en": [
+      "unemployment at origin",
+      "job opportunity at destination",
+      "scholarship dest",
+      "safety dest"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "بیکاری، تورم، ناامنی.",
+    "explanation_en": "Unemployment, inflation, insecurity.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q02",
+    "question_fa": "عامل جاذبه (pull) چیست؟",
+    "question_en": "Pull factor?",
+    "options_fa": [
+      "بیکاری مبدا",
+      "حقوق بالاتر در مقصد",
+      "تورم مبدا",
+      "مالیات مبدا"
+    ],
+    "options_en": [
+      "unemployment origin",
+      "higher salary at destination",
+      "inflation origin",
+      "tax origin"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "حقوق بالاتر، آزادی، امنیت.",
+    "explanation_en": "Higher salary, freedom, safety.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q03",
+    "question_fa": "TÜİK چیست؟",
+    "question_en": "What is TÜİK?",
+    "options_fa": [
+      "سازمان آمار ترکیه",
+      "بانک ایران",
+      "ویزا",
+      "دانشگاه"
+    ],
+    "options_en": [
+      "Turkish Statistical Institute",
+      "Iran bank",
+      "visa",
+      "university"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "Turkish Statistical Institute.",
+    "explanation_en": "Turkish Statistical Institute.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q04",
+    "question_fa": "brain drain یعنی؟",
+    "question_en": "What is brain drain?",
+    "options_fa": [
+      "مهاجرت ماهران",
+      "مهاجرت نیروی متخصص تحصیلکرده",
+      "مهاجرت توریستی",
+      "مهاجرت تفریحی"
+    ],
+    "options_en": [
+      "skilled migration",
+      "highly educated migration",
+      "tourist",
+      "leisure"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "فرار مغزهای تحصیلکرده.",
+    "explanation_en": "Highly educated exodus.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q05",
+    "question_fa": "چرا ترکیه برای ایرانی‌ها هاب است؟",
+    "question_en": "Why Turkey hub for Iranians?",
+    "options_fa": [
+      "بدون ویزا 90 روزه + نزدیکی فرهنگی + کسب‌وکار آسان",
+      "فقط آب‌وهوا",
+      "فقط غذا",
+      "فقط ارزانی"
+    ],
+    "options_en": [
+      "visa-free 90d + cultural proximity + easy business",
+      "only weather",
+      "only food",
+      "only cheap"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "بدون ویزا، نزدیک، زبان نزدیک، کسب‌وکار.",
+    "explanation_en": "Visa-free, close, language proximity, business.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q06",
+    "question_fa": "remittance چیست؟",
+    "question_en": "What is remittance?",
+    "options_fa": [
+      "حواله مهاجر به خانه",
+      "مالیات",
+      "ویزا",
+      "بیمه"
+    ],
+    "options_en": [
+      "migrant sends home",
+      "tax",
+      "visa",
+      "insurance"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "پول ارسالی مهاجر به خانواده.",
+    "explanation_en": "Money migrant sends family.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q07",
+    "question_fa": "کدام شهر ترکیه بیشترین ایرانی را دارد؟",
+    "question_en": "Which city most Iranians in Turkey?",
+    "options_fa": [
+      "استانبول",
+      "آنکارا",
+      "ازمیر",
+      "وان"
+    ],
+    "options_en": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Van"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "استانبول بیشترین.",
+    "explanation_en": "Istanbul most.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q08",
+    "question_fa": "نظریه Lee 1966 چیست؟",
+    "question_en": "What is Lee 1966 theory?",
+    "options_fa": [
+      "push-pull",
+      "فقط pull",
+      "فقط push",
+      "بدون نظریه"
+    ],
+    "options_en": [
+      "push-pull",
+      "only pull",
+      "only push",
+      "no theory"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "push-pull.",
+    "explanation_en": "Push-pull.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q09",
+    "question_fa": "آیا مهاجرت یقه‌آبی به ترکیه رو به افزایش است؟",
+    "question_en": "Is blue-collar migration to Turkey increasing?",
+    "options_fa": [
+      "کاهش",
+      "افزایش به دلیل بیکاری و تورم ایران",
+      "ثابت",
+      "بدون داده"
+    ],
+    "options_en": [
+      "decrease",
+      "increase due to unemployment inflation Iran",
+      "stable",
+      "no data"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "بله رو به افزایش.",
+    "explanation_en": "Yes increasing.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d11",
+    "q_id": "d11_q10",
+    "question_fa": "برای pitch به سرمایه‌گذار چه داده‌ای مهم است؟",
+    "question_en": "What data important for investor pitch?",
+    "options_fa": [
+      "فقط تعداد کاربر",
+      "TÜİK + IOM + نرخ مچ + retention",
+      "فقط رنگ لوگو",
+      "فقط نام تیم"
+    ],
+    "options_en": [
+      "only user count",
+      "TÜİK + IOM + match rate + retention",
+      "only logo color",
+      "only team name"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "داده مهاجرت + نرخ مچ + نگهداشت.",
+    "explanation_en": "Migration data + match rate + retention.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q01",
+    "question_fa": "Ltd Şti حداقل سرمایه اسمی؟",
+    "question_en": "Min nominal capital Ltd?",
+    "options_fa": [
+      "10k TL",
+      "50k TL",
+      "100k TL",
+      "بدون حداقل جدید"
+    ],
+    "options_en": [
+      "10k",
+      "50k",
+      "100k",
+      "no new min"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "10k TL اسمی، 25% در ثبت.",
+    "explanation_en": "10k nominal, 25% at registration.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q02",
+    "question_fa": "A.Ş حداقل سرمایه؟",
+    "question_en": "Min capital A.Ş?",
+    "options_fa": [
+      "10k",
+      "50k TL",
+      "1M",
+      "بدون"
+    ],
+    "options_en": [
+      "10k",
+      "50k",
+      "1M",
+      "none"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "50k TL.",
+    "explanation_en": "50k TL.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q03",
+    "question_fa": "تکنوپارک چه معافیتی دارد؟",
+    "question_en": "Technopark exemption?",
+    "options_fa": [
+      "بدون",
+      "معافیت مالیات بر درآمد پرسنل R&D + معافیت مالیات شرکت تا 2028",
+      "فقط آب",
+      "فقط برق"
+    ],
+    "options_en": [
+      "none",
+      "income tax R&D personnel + corporate tax till 2028",
+      "only water",
+      "only electricity"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "معافیت گسترده.",
+    "explanation_en": "Wide exemption.",
+    "difficulty": "easy"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q04",
+    "question_fa": "Tech Visa چند ساله؟",
+    "question_en": "How long Tech Visa?",
+    "options_fa": [
+      "6 ماه",
+      "3 سال",
+      "1 سال",
+      "10 سال"
+    ],
+    "options_en": [
+      "6m",
+      "3y",
+      "1y",
+      "10y"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "3 سال.",
+    "explanation_en": "3 years.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q05",
+    "question_fa": "اقامت از طریق شرکت چگونه؟",
+    "question_en": "Residence via company?",
+    "options_fa": [
+      "خودکار",
+      "بعد از ثبت شرکت و اجازه کار، اقامت کاری = اجازه اقامت",
+      "بدون اقامت",
+      "فقط توریستی"
+    ],
+    "options_en": [
+      "auto",
+      "after company + work permit, work permit = residence",
+      "no residence",
+      "only tourist"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "اجازه کار = اجازه اقامت ماده 27 قانون 6458.",
+    "explanation_en": "Work permit = residence Art 27 Law 6458.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q06",
+    "question_fa": "حساب بانکی برای ایرانی در ترکیه؟",
+    "question_en": "Bank account for Iranian in Turkey?",
+    "options_fa": [
+      "غیرممکن",
+      "ممکن ولی سخت، نیاز به اقامت + مالیات + مدارک بیشتر",
+      "فقط با پاسپورت",
+      "فقط آنلاین"
+    ],
+    "options_en": [
+      "impossible",
+      "possible but hard, needs residence + tax + more docs",
+      "only passport",
+      "only online"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "ممکن ولی سخت به دلیل de-risking.",
+    "explanation_en": "Possible but hard due to de-risking.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q07",
+    "question_fa": "VERBIS برای شرکت چیست؟",
+    "question_en": "VERBIS for company?",
+    "options_fa": [
+      "بدون نیاز",
+      "ثبت‌نام اجباری اگر داده شخصی پردازش می‌کند",
+      "فقط برای دولتی",
+      "فقط برای بانک"
+    ],
+    "options_en": [
+      "no need",
+      "mandatory if processes personal data",
+      "only gov",
+      "only bank"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "اگر داده شخصی پردازش می‌کند باید VERBIS.",
+    "explanation_en": "If processes personal data must VERBIS.",
+    "difficulty": "medium"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q08",
+    "question_fa": "هزینه تقریبی تاسیس Ltd؟",
+    "question_en": "Approx cost to establish Ltd?",
+    "options_fa": [
+      "رایگان",
+      "15-30k TL + سرمایه",
+      "1M TL",
+      "100 TL"
+    ],
+    "options_en": [
+      "free",
+      "15-30k TL + capital",
+      "1M",
+      "100"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "15-30k TL هزینه تاسیس + سرمایه.",
+    "explanation_en": "15-30k TL + capital.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q09",
+    "question_fa": "آیا با Ltd می‌توان اقامت توریستی را به کاری تبدیل کرد؟",
+    "question_en": "Can Ltd convert tourist residence to work?",
+    "options_fa": [
+      "خیر",
+      "بله با درخواست اجازه کار داخل کشور اگر 6 ماه اقامت دارد",
+      "فقط با ازدواج",
+      "هرگز"
+    ],
+    "options_en": [
+      "no",
+      "yes with in-country work permit if 6m residence",
+      "only marriage",
+      "never"
+    ],
+    "correct_index": 1,
+    "explanation_fa": "اگر 6 ماه اقامت معتبر دارد می‌شود.",
+    "explanation_en": "If 6m valid residence possible.",
+    "difficulty": "hard"
+  },
+  {
+    "domain_id": "d12",
+    "q_id": "d12_q10",
+    "question_fa": "بهترین شهر برای استارتاپ ایرانی؟",
+    "question_en": "Best city for Iranian startup?",
+    "options_fa": [
+      "استانبول (تکنوپارک‌ها + دسترسی)",
+      "وان",
+      "فقط آنکارا",
+      "فقط ازمیر"
+    ],
+    "options_en": [
+      "Istanbul (technoparks + access)",
+      "Van",
+      "only Ankara",
+      "only Izmir"
+    ],
+    "correct_index": 0,
+    "explanation_fa": "استانبول + آنکارا + ازمیر تکنوپارک‌ها.",
+    "explanation_en": "Istanbul + Ankara + Izmir technoparks.",
+    "difficulty": "hard"
+  }
+]

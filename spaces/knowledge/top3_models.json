@@ -1,0 +1,52 @@
+[
+  {
+    "rank": 1,
+    "name": "JobLink-Iran-Light: Qwen3-0.6B + Qwen2.5-7B",
+    "embedding_id": "emb_qwen3_06b",
+    "llm_id": "llm_qwen25_7b",
+    "why": "بهترین برای ایران - سبک (639MB emb + 4.7GB LLM Q4)، 32K+131K کانتکست، فارسی و ترکی عالی (TurkishMMLU 54.28)، Apache-2.0 + Qwen License تجاری مجاز، ONNX و GGUF آماده، CPU inference ممکن، MRL برای کاهش بعد به 512 برای D1",
+    "architecture": "Bi-encoder: Query = Instruct: یک شغل مناسب برای این رزومه پیدا کن\\nQuery: {cv_fa} → 1024 dim → truncate 512 برای ذخیره → cosine search روی 97 آگهی + 360 دانش → Top 5 → Reranker Qwen3-Reranker-0.6B → LLM Qwen2.5-7B با RAG chunk از knowledge base (KVKK + اجازه کار) → توضیح فارسی + هشدار حقوقی",
+    "fine_tune_steps": [
+      "ساخت golden dataset 500 جفت: (رزومه فارسی → آگهی ترکی مثبت/منفی) از LEXICON + ESCO",
+      "Contrastive loss InfoNCE با in-batch negatives",
+      "5 epoch, batch 32, lr 2e-5, warmup 10% روی T4 HF Space",
+      "ارزیابی Recall@5 روی 14 رزومه مصنوعی - هدف 0.80+",
+      "ONNX export: optimum-cli export onnx --model Qwen/Qwen3-Embedding-0.6B --task feature-extraction qwen3-06b-onnx/",
+      "Quantization: int8 → 300MB برای VPS ایران"
+    ],
+    "cost": "Training ~2h T4 ($0.5), Inference 36k tokens → $0.00036, LLM $0.000672 → total <$0.01 per 100 jobs",
+    "iran_deploy": "VPS ایران: python -m optimum.onnxruntime + FastAPI, یا GGUF via llama.cpp, Cloudflare Workers AI fallback bge-m3"
+  },
+  {
+    "rank": 2,
+    "name": "JobLink-Balanced: e5-large + Llama-3.1-8B",
+    "embedding_id": "emb_e5_large",
+    "llm_id": "llm_llama31_8b",
+    "why": "بالانس دقت/هزینه/دسترسی - هر دو مدل live روی HF Router (تست شده 2026-09-13)، ارزان‌ترین ($0.02/1M)، MIT + Llama 3.1 License تجاری مجاز، مستندات زیاد، کد فعلی JobLink با e5 کار می‌کند",
+    "architecture": "Query: 'query: {cv}' Passage: 'passage: {job}' → e5-large 1024 dim → BM25 blend 0.34 skill/0.26 semantic → Top 5 → Llama-3.1-8B با prompt فارسی + قوانین KVKK → توضیح",
+    "fine_tune_steps": [
+      "نیازی به fine-tune سنگین نیست - فقط LoRA adapter برای اصطلاحات یقه‌آبی",
+      "ساخت 200 جفت fa→tr با تمرکز بر kaynak polysemy (جوشکاری vs منبع کد)",
+      "1 epoch, lr 1e-5",
+      "تست: جوشکار نباید به software engineer مچ شود"
+    ],
+    "cost": "ارزان‌ترین - $0.000672 per 84 explanations",
+    "iran_deploy": "HF Router + Cloudflare Workers AI, اگر فیلتر: Space proxy"
+  },
+  {
+    "rank": 3,
+    "name": "JobLink-UltraLight-Offline: jina-v3 + Phi-3-mini",
+    "embedding_id": "emb_jina_v3",
+    "llm_id": "llm_phi3",
+    "why": "فوق سبک آفلاین کامل برای ایران بدون اینترنت بین‌الملل - jina-v3 570M 8192 توکن با 5 task adapter، Phi-3-mini 3.8B 4K کانتکست، هر دو ONNX و GGUF، CPU-only، بدون نیاز به API خارجی",
+    "architecture": "jina-v3 task=retrieval.query 512 dim (MRL) → Qdrant local → Phi-3-mini با RAG → توضیح کوتاه فارسی",
+    "fine_tune_steps": [
+      "بدون fine-tune LLM - فقط prompt engineering فارسی",
+      "Embedding: fine-tune jina-v3 با 300 جفت fa-tr",
+      "Export ONNX: Xenova/jina-embeddings-v3 already ONNX ready",
+      "Phi-3 GGUF Q4 2.2GB"
+    ],
+    "cost": "0$ - کاملا آفلاین",
+    "iran_deploy": "لپ‌تاپ یا VPS ایران بدون GPU - 8GB RAM کافی"
+  }
+]

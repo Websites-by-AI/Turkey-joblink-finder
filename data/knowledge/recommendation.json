@@ -1,0 +1,10 @@
+{
+  "best_overall": "Qwen3-Embedding-0.6B",
+  "why_overall": "سبک 639MB، 32K کانتکست، MRL تا 32 بعد برای D1، delta 0.16 تست زنده روی polysemy trap kaynak (جوشکار vs کد)، Apache-2.0 تجاری مجاز، ONNX 300MB + GGUF آماده، CPU inference، ایران 10/10، هزینه $0.00036/100",
+  "best_rag": "bge-m3",
+  "why_rag": "Hybrid سه کاره dense+sparse+colbert در یک مدل، delta 0.16 مساوی Qwen3-0.6B، 8192 کانتکست برای مقالات حقوقی بلند، MIT، نیازی به reranker جدا ندارد ولی می‌تواند با bge-reranker-v2-m3 ترکیب شود delta 0.25",
+  "best_offline": "jina-v3 + Phi-3-mini (Baby Rituq)",
+  "why_offline": "کاملا آفلاین 0$، 8GB RAM، بدون API خارجی، بهترین برای VPS ایران بدون اینترنت بین‌الملل",
+  "worst": "e5-large for polysemy",
+  "why_worst": "delta 0.05 ضعیف، جوشکار را به برنامه‌نویس مچ می‌کند، 512 کانتکست کم"
+}

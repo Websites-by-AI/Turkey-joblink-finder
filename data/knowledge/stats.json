@@ -1,0 +1,32 @@
+{
+  "domains": 12,
+  "resources": 360,
+  "articles": 120,
+  "books": 120,
+  "videos": 120,
+  "quizzes": 120,
+  "ai_models": 11,
+  "top3": 3,
+  "custom_models": 3,
+  "rag_10_models": 10,
+  "news_10": 10,
+  "quizzes_per_domain": {
+    "d01": 10,
+    "d02": 10,
+    "d03": 10,
+    "d04": 10,
+    "d05": 10,
+    "d06": 10,
+    "d07": 10,
+    "d08": 10,
+    "d09": 10,
+    "d10": 10,
+    "d11": 10,
+    "d12": 10
+  },
+  "finetune": {
+    "scripts": 3,
+    "golden_dataset": "data/knowledge/finetune/../golden_fa_tr.jsonl",
+    "rows": 552
+  }
+}

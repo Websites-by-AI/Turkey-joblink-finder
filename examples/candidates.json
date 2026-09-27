@@ -1,0 +1,100 @@
+[
+  {
+    "cid": "demo-001",
+    "pseudonym": "SARA-K",
+    "consent_token": "v1:2026-09-01T10:00:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "Sara K. Senior Backend Developer. 7 سال تجربه. Python, Django, REST API, PostgreSQL, Redis, Docker, Kubernetes, CI/CD با GitLab. تسلط به انگلیسی، آشنایی با ترکی استانبولی. تهران. انتظار حقوق: 3500 USD در ماه. آماده دورکاری و جابه‌جایی. مدیریت تیم ۵ نفره."
+  },
+  {
+    "cid": "demo-002",
+    "pseudonym": "MEHDI-R",
+    "consent_token": "v1:2026-09-02T08:30:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": false,
+    "cv_text": "مهدی ر. برنامه نویس فرانت اند. 4 سال تجربه با JavaScript, TypeScript, React, Next.js, Tailwind, Git. زبان انگلیسی خوب. تبریز. فقط دورکاری. حقوق مورد انتظار 1200 دلار ماهیانه. نمونه کار در گیت‌هاب."
+  },
+  {
+    "cid": "demo-003",
+    "pseudonym": "NAZANIN-A",
+    "consent_token": "v1:2026-09-03T14:10:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "Nazanin A. Data Analyst / BI. 5 ساله سابقه: SQL, Excel, Power BI, Tableau, ETL با Airflow, Python pandas. متوسط ترکی استانبولی، انگلیسی پیشرفته. اصفهان. تحلیل بازار و داشبورد مدیریتی. انتظار 2200000 تومان تا 3000000 تومان."
+  },
+  {
+    "cid": "demo-004",
+    "pseudonym": "REZA-M",
+    "consent_token": "v1:2026-09-04T09:00:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "رضا م. حسابدار ارشد با 10 سال تجربه: مالی، حسابداري، Excel، نرم‌افزار سپیدار، راهکاران، VAT و مالیات، تحلیل صورت‌های مالی. زبان انگلیسی متوسط. کرج. آماده کار در استانبول. 60 میلیون تومان."
+  },
+  {
+    "cid": "demo-005",
+    "pseudonym": "AYLA-D",
+    "consent_token": "v1:2026-09-05T11:00:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "Ayla D. UI/UX designer. 6 سال: Figma, Adobe XD, Photoshop, Illustrator, طراحی رابط کاربری, user research, design system, HTML/CSS. انگلیسی مسلط. تهران. دورکاری یا استانبول. 2500 دلار."
+  },
+  {
+    "cid": "demo-006",
+    "pseudonym": "HAMED-T",
+    "consent_token": "v1:2026-09-06T07:45:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "حامد ت. مهندس برق / اتوماسیون صنعتی. 8 سال PLC (Siemens), SCADA, TIA Portal, تابلو برق, برقکار صنعتی, تعمیر و نگهداری خطوط تولید. آماده کار در کارخانه در ترکیه. انگلیسی متوسط، ترکی مبتدی. 45000 هزارتومان؟ انتظار: 2000 دلار."
+  },
+  {
+    "cid": "demo-007",
+    "pseudonym": "SOGAND-P",
+    "consent_token": "v1:2026-09-07T16:20:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": false,
+    "cv_text": "Sogand P. Digital Marketing & SEO expert. 3 years experience: SEO, Google Ads, Meta Ads, Instagram content, copywriting, analytics. ترمیم و تولید محتوا. دورکاری. 900 دلار. فارسی native, English fluent."
+  },
+  {
+    "cid": "demo-008",
+    "pseudonym": "KEYWAN-S",
+    "consent_token": "v1:2026-09-08T13:00:00Z:demo-device:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "کیوان س. DevOps Engineer. 6 سال: Linux, Docker, Kubernetes, Terraform, Ansible, AWS, Cloudflare, CI/CD, monitoring Prometheus Grafana. انگلیسی پیشرفته. آنکارا یا ریموت. 3800 دلار."
+  },
+  {
+    "cid": "demo-101",
+    "pseudonym": "VAHID-B",
+    "consent_token": "v1:2026-09-06T08:00:00Z:demo:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "وحید ب. اپراتور لیفتراک و کارگر انبار. ۷ سال: انبارداری، بارگیری، لیفتراک، تدارکات، لجستیک، کار شیفتی. مدرک فنی‌وحرفه‌ای مکانیک + کارت لیفتراک + گواهینامه پایه یک. تبریز. آماده استانبول/کجائلی. مورد انتظار 30.000 TL. بدون مجوز کار، نیازمند اسپانسر."
+  },
+  {
+    "cid": "demo-102",
+    "pseudonym": "JAFAR-N",
+    "consent_token": "v1:2026-09-06T08:05:00Z:demo:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "جعفر ن. جوشکار صنعتی. ۱۰ سال تجربه: جوش ARC، MIG، TIG، ساخت سازه فلزی، لوله‌کشی صنعتی، نقشه‌خوانی، مونتاژ. مدرک فنی‌وحرفه‌ای. اراک. ترکی مبتدی، انگلیسی ضعیف. آماده کار در ترکیه. مورد انتظار: 35.000 TL."
+  },
+  {
+    "cid": "demo-103",
+    "pseudonym": "MORTEZA-G",
+    "consent_token": "v1:2026-09-06T08:10:00Z:demo:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "مرتضی گ. مهندس ماشین‌ابزار / اپراتور CNC تراش و فرز. ۹ سال: CNC، تراش، فرز، سنبه‌زنی، تولید قطعه، کنترل کیفیت، نقشه‌خوانی، سالیدورکس. قم. ترکی ندارم ولی آماده یادگیری. انتظار در ترکیه 33.000 TL."
+  },
+  {
+    "cid": "demo-104",
+    "pseudonym": "HASAN-E",
+    "consent_token": "v1:2026-09-06T08:15:00Z:demo:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "حسن ا. نگهبان و مأمور حراست. ۶ سال: نگهبانی، دوربین مداربسته CCTV، کنترل ورود و خروج، گشت شب، گزارش‌نویسی، تیم‌سازی. پروانه نگهبانی. کرج. آماده شیفت شب. مورد انتظار: 26.000 TL."
+  },
+  {
+    "cid": "demo-105",
+    "pseudonym": "ZAHRA-K",
+    "consent_token": "v1:2026-09-06T08:20:00Z:demo:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "زهرا ک. نیروی خدمات و نظافت صنعتی و هتل. ۵ سال: housekeeping، نظافت، تمیزکاری، آراستن سالن، پذیرایی، رزرواسیون ساده، کار با مواد شوینده و شیمیایی. تهران. آماده کار در آنتالیا (هتل). ترکی در حد A1."
+  },
+  {
+    "cid": "demo-106",
+    "pseudonym": "BILAL-T",
+    "consent_token": "v1:2026-09-06T08:25:00Z:demo:sha256:synthetic",
+    "open_to_relocate": true,
+    "cv_text": "بلال ت. راننده پایه یک و راننده کامیون. ۱۲ سال تجربه: حمل بار، توزیع محلی، لجستیک، کوری و پیک موتوری ۳ سال، بارگیری و تخلیه، مستر بارنامه. گواهینامه بین‌المللی + SRC. استانبول یا کجائلی. ترکی متوسط. مورد انتظار: 28.000 TL."
+  }
+]
